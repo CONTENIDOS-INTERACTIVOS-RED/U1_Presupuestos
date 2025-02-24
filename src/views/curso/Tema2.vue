@@ -5,10 +5,10 @@
 
     .bg-color-1.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
-        .col-lg-auto.order-2
+        .col-lg-auto.mb-3.mb-lg-0
           figure
             img(src='@/assets/curso/tema2/1.png', alt='')
-        .col-lg.order-1.mb-3.mb-lg-0
+        .col-lg.mb-3.mb-lg-0
           .p-4
             p.mb-0(data-aos="fade-up") El presupuesto es una herramienta clave en la administración financiera de las organizaciones, ya que permite planificar y controlar los recursos de manera adecuada. Su objetivo principal es servir como guía para la asignación de ingresos y gastos con el fin de alcanzar los objetivos estratégicos de la empresa. Además, facilita la toma de decisiones al anticipar posibles desviaciones y realizar ajustes a tiempo para optimizar los recursos.
     
@@ -27,7 +27,7 @@
         .tarjeta.bg-color-11.p-4.text-center.h-100.align-content-center.text-white
           h5.mb-0 Maximizar la operatividad y rentabilidad.
       .col-lg-3.mb-3.mb-lg-0(data-aos="fade-up")
-        .tarjeta.bg-color-7.p-4.text-center.h-100.align-content-center.text-white
+        .tarjeta.bg-color-7.p-4.text-center.h-100.align-content-center
           h5.mb-0 Identificar oportunidades de ahorro y mejorar el control de gastos.
     
     p.mb-4 Por otro lado, el presupuesto puede clasificarse según su propósito y características. Algunas de las clasificaciones más comunes son:
@@ -81,7 +81,7 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-9
-                  p.mb-0 <b>Ejemplo: </b> Si una empresa planea aumentar su producción, el presupuesto incluirá costos de materiales, mano de obra y logística para garantizar que los recursos sean suficientes.
+                  p.mb-0 <b>Ejemplo: </b> si una empresa planea aumentar su producción, el presupuesto incluirá costos de materiales, mano de obra y logística para garantizar que los recursos sean suficientes.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
@@ -93,7 +93,7 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-9
-                  p.mb-0 <b>Ejemplo: </b> Si el presupuesto estimó $100,000 en gastos operativos y se gastaron $120,000, se podrán identificar las áreas donde se excedió y corregir para futuros periodos.
+                  p.mb-0 <b>Ejemplo: </b> si el presupuesto estimó $100,000 en gastos operativos y se gastaron $120,000, se podrán identificar las áreas donde se excedió y corregir para futuros periodos.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -104,7 +104,7 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-9
-                  p.mb-0 <b>Ejemplo: </b> Una empresa que desea lanzar un nuevo producto usará el presupuesto para calcular costos de producción y marketing, determinando si es viable financieramente.
+                  p.mb-0 <b>Ejemplo: </b> una empresa que desea lanzar un nuevo producto usará el presupuesto para calcular costos de producción y marketing, determinando si es viable financieramente.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -115,7 +115,7 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-9
-                  p.mb-0 <b>Ejemplo: </b> Si se proyectaba un aumento del 10 % en ventas y solo se alcanzó el 5 %, el presupuesto ayudará a analizar las causas y ajustar la estrategia de ventas.
+                  p.mb-0 <b>Ejemplo: </b> si se proyectaba un aumento del 10 % en ventas y solo se alcanzó el 5 %, el presupuesto ayudará a analizar las causas y ajustar la estrategia de ventas.
     
     .bg-full-width.bg-color-2.mb-5
       .px-4.px-md-5.py-4
