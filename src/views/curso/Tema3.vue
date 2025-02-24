@@ -66,7 +66,7 @@
     
     h2(data-aos="fade-left") Revisión y ajuste del presupuesto
     
-    .bg-full-width.bg-h85.mb-lg-5
+    .bg-full-width.bg-h85.mb-5
       .px-4.p-md-5     
         .row.justify-content-center.align-items-center
           .col-lg-7(data-aos="fade-left").mb-3.mb-lg-0.order-2
@@ -400,15 +400,21 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://uapa.cuaed.unam.mx/sites/default/files/minisite/static/55818ffc-64f0-46ef-b64f-09ee9ade2c92/3-El-Presupuesto-y-sus-Caracteristicas/index.html?form=MG0AV3" target="_blank" rel="noopener noreferrer") Universidad Nacional Autónoma de México (UNAM). (s.f.). El presupuesto y sus características.  
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://actualicese.com/definicion-y-clasificacion-de-los-presupuestos/" target="_blank" rel="noopener noreferrer") Actualícese. (s.f.). Presupuestos: así se clasifican y definen. 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://actualicese.com/archivo/la-importancia-de-los-presupuestos-en-la-organizacion-y-en-la-ejecucion-de-proyectos/" target="_blank" rel="noopener noreferrer") Actualícese. (s.f.). La importancia de los presupuestos en la organización y en la ejecución de proyectos. 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.federacionenologos.es/la-importancia-de-los-presupuestos-en-una-empresa-un-analisis/" target="_blank" rel="noopener noreferrer") Federación Española de Asociaciones de Enólogos. (s.f.). La Importancia de los Presupuestos en una Empresa: Un Análisis.  
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=dARs80zSyCQ" target="_blank" rel="noopener noreferrer") Contabilidad de costos. (2021, 3 de septiembre). El presupuesto como Sistema de Planificación y Control. YouTube. 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
@@ -434,29 +440,29 @@ export default {
         preguntas: [
           {
             id: 1,
-            texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+            texto: '¿Qué es un presupuesto? ',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto: 'Un plan contable para calcular impuestos',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
+                texto:
+                  'Una proyección financiera que estima ingresos y gastos para un periodo específico',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto: 'Un informe financiero mensual',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto: 'Un documento para solicitar préstamos bancarios',
                 esCorrecta: false,
               },
             ],
@@ -465,29 +471,29 @@ export default {
           },
           {
             id: 2,
-            texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+            texto: 'Uno de los objetivos principales de los presupuestos es: ',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
+                texto: 'Controlar únicamente los ingresos',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
+                texto:
+                  'Lograr una asignación eficiente de los recursos y asegurar el cumplimiento de metas',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
+                texto: 'Determinar el costo del inventario',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                texto: 'Maximizar los beneficios fiscales',
                 esCorrecta: false,
               },
             ],
@@ -496,29 +502,28 @@ export default {
           },
           {
             id: 3,
-            texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+            texto: '¿Cómo se clasifican los presupuestos según su naturaleza? ',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
+                texto: 'Presupuesto fijo y variable',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
+                texto: 'Presupuestos de operación, de inversión y financieros',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Determinar la culpabilidad',
+                texto: 'Presupuestos por producto y servicio',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                texto: 'Presupuesto mensual y trimestral',
                 esCorrecta: false,
               },
             ],
@@ -527,28 +532,29 @@ export default {
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto: 'La planeación estratégica en una organización busca: ',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
+                texto: 'Definir los presupuestos a corto plazo',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto: 'Establecer los pagos a proveedores',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto:
+                  'Definir los objetivos a largo plazo y determinar la dirección general de la empresa',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto: 'Calcular la producción total del año',
                 esCorrecta: false,
               },
             ],
@@ -557,29 +563,28 @@ export default {
           },
           {
             id: 5,
-            texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+            texto: 'La primera etapa en la gestión de un presupuesto es: ',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
+                texto: 'Monitoreo y control',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
+                texto: 'La formulación y planeación del presupuesto',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto: 'Elaboración de estados financieros',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto: 'Cierre contable',
                 esCorrecta: false,
               },
             ],

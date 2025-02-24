@@ -124,26 +124,160 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Buitrago Ibáñez, J. V. (2021). Presupuestos en Excel: (1 ed.). Editorial UPTC. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/219237?page=1',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Piedra Aguilera, M. A. & Cubero Abril, T. (2024). Presupuestos. Un enfoque práctico: (1 ed.). Universidad del Azuay',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/278951?page=2',
+    },
+    {
+      referencia:
+        'Pacheco Coello, C. E. (2020). Presupuestos un enfoque gerencial: ( ed.). Instituto Mexicano de Contadores Públicos. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/151225',
+    },
+    {
+      referencia:
+        'Vásquez Rojas, F. A. (2021). Costos y Presupuestos para financieros junior: ( ed.). Grupo Editorial Nueva Legislación SAS. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/160288?page=1',
+    },
+    {
+      referencia:
+        'Checa Hinojo, E. J. (2024). Elaboración del presupuesto editorial. ARGN0109: (1 ed.). IC Editorial',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/274320?page=1',
+    },
+    {
+      referencia:
+        'Moreno Castro, T. F. (2023). Plan de ventas: productos, pronósticos y presupuestos: (1 ed.). RIL editores',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/268333?page=1',
+    },
+    {
+      referencia:
+        'Antón Pérez, J. J. & Garijo de Miguel, S. (2024). Empresa y administración: (1 ed.). Macmillan Iberia, S.A',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/267631',
+    },
+    {
+      referencia:
+        'Gutiérrez Aragón, Ó. (2015). Fundamentos de administración de empresas: ( ed.). Difusora Larousse - Ediciones Pirámide',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/49039',
+    },
+    {
+      referencia:
+        'Reza Trosino, J. C. (2019). El gerente efectivo: los fundamentos de la administración, el trabajo en equipo y el liderazgo: (1 ed.). Universidad Nacional Autónoma de México (UNAM). ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/228831',
+    },
+    {
+      referencia:
+        'Salgado Benítez, J. Guerrero López, L. & Salgado Hernández, N. (2016). Fundamentos de Administración: ( ed.). Grupo Editorial Éxodo. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/130328',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Ajuste presupuestario',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Modificación de las proyecciones financieras a medida que cambian las circunstancias internas o externas de la organización.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Alquiler',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'Costo asociado al arrendamiento de propiedades o instalaciones para la operación de la empresa.',
+    },
+    {
+      termino: 'Beneficio neto',
+      significado:
+        'La ganancia de una empresa después de descontar todos los costos y gastos, incluidos impuestos y otros cargos.',
+    },
+    {
+      termino: 'Alquiler',
+      significado:
+        'Costo asociado al arrendamiento de propiedades o instalaciones para la operación de la empresa.',
+    },
+    {
+      termino: 'Capital',
+      significado:
+        'Recursos financieros utilizados para iniciar o mantener operaciones empresariales, que incluyen tanto fondos propios como de terceros.',
+    },
+    {
+      termino: 'Costos de producción',
+      significado:
+        'Gastos directamente relacionados con la fabricación de productos, incluyendo materiales, mano de obra y costos indirectos de fabricación.',
+    },
+    {
+      termino: 'Costos fijos',
+      significado:
+        'Gastos que no cambian con el volumen de producción, como el alquiler de locales o sueldos administrativos.',
+    },
+    {
+      termino: 'Costos variables',
+      significado:
+        'Gastos que fluctúan en función del volumen de producción, como los materiales utilizados en la fabricación de productos.',
+    },
+    {
+      termino: 'Deuda',
+      significado:
+        'Obligación financiera de la empresa que debe ser pagada en el futuro, generalmente con intereses.',
+    },
+    {
+      termino: 'Desviación',
+      significado:
+        'Diferencia entre el presupuesto planificado y los resultados reales obtenidos.',
+    },
+    {
+      termino: 'Ejecución presupuestaria',
+      significado:
+        'Implementación de los planes financieros establecidos en el presupuesto y monitoreo de su cumplimiento.',
+    },
+    {
+      termino: 'Evaluación financiera',
+      significado:
+        'Proceso de análisis de los resultados financieros para determinar la eficiencia y rentabilidad de las operaciones de una empresa.',
+    },
+    {
+      termino: 'Gastos operativos',
+      significado:
+        'Todos los costos asociados con las actividades diarias de la empresa, como sueldos, alquiler y servicios públicos.',
+    },
+    {
+      termino: 'Ingresos',
+      significado:
+        'Dinero recibido por la empresa, típicamente a través de la venta de bienes o servicios.',
+    },
+    {
+      termino: 'Inversión',
+      significado:
+        'Colocación de capital en activos con el objetivo de generar retorno o beneficios en el futuro.',
+    },
+    {
+      termino: 'Liquidez',
+      significado:
+        'Capacidad de una empresa para cubrir sus obligaciones a corto plazo con los activos disponibles en efectivo o fácilmente convertibles en efectivo.',
+    },
+    {
+      termino: 'Margen de beneficio',
+      significado:
+        'Porcentaje de ingresos que representa el beneficio neto de la empresa, después de descontar todos los costos.',
+    },
+    {
+      termino: 'Presupuesto base cero',
+      significado:
+        'Método de elaboración de presupuestos en el que todas las partidas deben ser justificadas y aprobadas desde cero, sin basarse en presupuestos anteriores.',
+    },
+    {
+      termino: 'Presupuesto flexible',
+      significado:
+        'Tipo de presupuesto que se ajusta según las variaciones en el nivel de actividad o producción de la empresa.',
+    },
+    {
+      termino: 'Presupuesto operativo',
+      significado:
+        'Estimación de ingresos y egresos relacionados con las operaciones diarias de la empresa.',
+    },
+    {
+      termino: 'Rentabilidad',
+      significado:
+        'Medida del beneficio generado por la empresa en relación con los recursos invertidos o utilizados.',
     },
   ],
 }

@@ -8,7 +8,7 @@
         .py-4.px-5.bg-color-1.mb-3(data-aos="fade-right")
           p.mb-0 El presupuesto es una herramienta esencial en la gestión financiera de cualquier organización, ya que permite planificar, controlar y evaluar el uso de los recursos. Se define como un plan detallado que proyecta los ingresos y gastos de una empresa en un periodo determinado, con el fin de garantizar una distribución adecuada de los recursos y facilitar la toma de decisiones estratégicas. No solo ayuda a gestionar las operaciones financieras diarias, sino que también permite anticipar escenarios y establecer acciones para alcanzar los objetivos organizacionales.
         p El presupuesto no es un documento estático, sino dinámico, ya que se ajusta a los cambios internos y externos de la organización. A través de presupuestos flexibles, las empresas pueden adaptarse a variaciones en ingresos y gastos, optimizando así su capacidad de respuesta ante situaciones imprevistas (Buitrago Ibáñez, 2021).
-        p.mb-0 Los principales elementos del presupuesto son:
+        p Los principales elementos del presupuesto son:
       .col-lg-5.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/1.png", alt="", data-aos="zoom-in")
@@ -71,7 +71,7 @@
       h2 #[span 1.1] Concepto de presupuesto
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.mb-3.mb-lg-0
         .py-4.px-5.bg-color-2.mb-3(data-aos="fade-right")
           p.mb-0 El presupuesto es más que una herramienta contable; es un mecanismo de planificación y control que ayuda a anticipar flujos de ingresos y gastos, facilitando la toma de decisiones estratégicas y operativas. Su función principal es prever los recursos necesarios y garantizar su distribución eficiente dentro de la organización.
         h2(data-aos="fade-left") Ejemplo práctico
@@ -97,7 +97,7 @@
                 td.text-bold Utilidad esperada
                 td.text-bold 100,000
 
-      .col-lg-4.mb-3.mb-lg-0
+      .col-lg-4
         figure
           img(src="@/assets/curso/tema1/5.png", alt="", data-aos="zoom-in")
     
@@ -105,7 +105,7 @@
 
     h2(data-aos="fade-left") Importancia del presupuesto
     
-    .bg-full-width.bg-h85.mb-lg-5
+    .bg-full-width.bg-h85.mb-5
       .px-4.p-md-5     
         .row.justify-content-center.align-items-center
           .col-lg-7(data-aos="fade-left").mb-3.mb-lg-0.order-2
@@ -328,15 +328,19 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
-
+              a(href="https://repositorio-uapa.cuaieed.unam.mx/repositorio/moodle/pluginfile.php/2805/mod_resource/content/1/UAPA-Presupuesto-Caracteristicas/index.html" target="_blank" rel="noopener noreferrer") Ruelas Vázquez, A. R. (2018). El Presupuesto y sus Características. Unidades de Apoyo para el Aprendizaje. CUAED/Facultad de Contaduría y Administración-UNAM.
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.uned.es" target="_blank" rel="noopener noreferrer") Fundación UNED. (2021). El presupuesto como herramienta de gestión empresarial. 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.incae.edu" target="_blank" rel="noopener noreferrer") NCAE Business School. (2019). Fundamentos de presupuesto en la administración de empresas.
+
+            
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=FQ26-TEMQfY" target="_blank" rel="noopener noreferrer") Contabilidad de costos. (2014, 9 de septiembre). Qué es el presupuesto y sus componentes básicos. YouTube. 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
