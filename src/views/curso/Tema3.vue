@@ -18,7 +18,7 @@
       .col-lg-8.mb-3.mb-lg-0
         .py-4.px-5.bg-color-1.mb-3(data-aos="fade-right")
           p.mb-0 Las cuentas contables son esenciales en el registro financiero de una empresa, ya que organizan las operaciones económicas y facilitan su análisis. Gracias al <b>principio de partida doble</b>, cada transacción impacta al menos dos cuentas, asegurando el equilibrio en los estados financieros. Por ejemplo, la compra de un vehículo mediante financiamiento incrementa tanto los activos como los pasivos de la empresa (Fernández, 2020).
-        p Las cuentas contables son esenciales en el registro financiero de una empresa, ya que organizan las operaciones económicas y facilitan su análisis. Gracias al <b>principio de partida doble</b>, cada transacción impacta al menos dos cuentas, asegurando el equilibrio en los estados financieros. Por ejemplo, la compra de un vehículo mediante financiamiento incrementa tanto los activos como los pasivos de la empresa (Fernández, 2020).
+        p Además, las cuentas contables permiten clasificar y resumir la información financiera de manera sistemática, lo que facilita la elaboración de informes como el balance general y el estado de resultados. Esta clasificación ayuda a la toma de decisiones gerenciales, al ofrecer una visión clara de la situación económica y financiera de la empresa en un periodo determinado. Asimismo, un adecuado manejo de las cuentas contables contribuye al cumplimiento de las normas contables y fiscales vigentes, garantizando la transparencia y confiabilidad de la información financiera (Gómez, 2019).
         
       .col-lg-4
         figure
@@ -410,7 +410,7 @@
               a(href="https://actualicese.com/archivo/la-importancia-de-los-presupuestos-en-la-organizacion-y-en-la-ejecucion-de-proyectos/" target="_blank" rel="noopener noreferrer") Actualícese. (s.f.). La importancia de los presupuestos en la organización y en la ejecución de proyectos. 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.federacionenologos.es/la-importancia-de-los-presupuestos-en-una-empresa-un-analisis/" target="_blank" rel="noopener noreferrer") Federación Española de Asociaciones de Enólogos. (s.f.). La Importancia de los Presupuestos en una Empresa: Un Análisis.  
+              a(href="https://onemarketing.es/importancia-de-los-presupuestos-en-una-empresa/" target="_blank" rel="noopener noreferrer") OneMarketing. (s. f.). Importancia de los presupuestos en una empresa. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
